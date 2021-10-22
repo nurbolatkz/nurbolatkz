@@ -26,4 +26,5 @@ I am kind student and always learner :). I just interested in Backend and Machin
 [![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=for-the-badge&logo=Linkedin&logoColor=1C6CF1)](www.linkedin.com/in/nurbolat-duisenbek-169CBE)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurbolatkz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurbolatkz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
