@@ -10,7 +10,7 @@ I am kind student and always learner :). I just interested in Backend and Machin
 ![Python](https://img.shields.io/badge/-Python-060606?style=for-the-badge&logo=python&logoColor=1C6CF1)
 ![C/C++](https://img.shields.io/badge/-C/C++-060606?style=for-the-badge&logo=C%2b%2b%&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=for-the-badge&logo=JavaScript&logoColor=EAF212)
-![C#](https://img.shields.io/badge/-C&#35;-060606?style=for-the-badge&logo=C&#35;&logoColor=880E90)
+![.NET](https://img.shields.io/badge/-.NET;-060606?style=for-the-badge&logo=net;&logoColor=880E90)
 ![SQL](https://img.shields.io/badge/-SQL-060606?style=for-the-badge&logo=mysql&logoColor=9E9393)
 ![Pandas](https://img.shields.io/badge/-Pandas-060606?style=for-the-badge&logo=Pandas&logoColor=2B7AF0)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-060606?style=for-the-badge&logo=Seaborn&logoColor=530EE0)
