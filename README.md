@@ -1,4 +1,4 @@
-![HEADER]("https://github.com/nurbolatkz/nurbolatkz/blob/main/static/working.gif") 
+![HEADER](https://github.com/nurbolatkz/nurbolatkz/blob/main/static/working.gif) 
 
 
 ##ABOUT ME
