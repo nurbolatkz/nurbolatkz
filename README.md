@@ -7,5 +7,5 @@ I am kind student and always learner :). I just interested in Backend and Machin
 
 ###Language and Tools
 
-![Python](https://img.shields.io/badge/-Python-#1861F7)
-Follow me
+![Python](https://img.shields.io/badge/-Python-1861F7)
+###Follow me
