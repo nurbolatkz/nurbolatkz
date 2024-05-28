@@ -3,7 +3,7 @@
 
 ##ABOUT ME
 
-I am kind student and always learner :). I just interested in Backend and Machine Learning. Here I will share with you what I will learn on these journeys.
+I am kind student and always learner :). I just interested in Full stack and Machine Learning. Here I will share with you what I will learn on these journeys.
 
 
 ###Language and Tools
